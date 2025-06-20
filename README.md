@@ -40,7 +40,7 @@
 
 ## 🏅 Certifications
 
-- 🎓 [AI & ML Bootcamp – ZTM Academy (June 2025)](https://www.udemy.com)  
+- 🎓 [Complete A.I. & Machine Learning, Data Science Bootcamp (June 2025)]([https://www.udemy.com](https://www.udemy.com/share/102vBw3@p_5CK-pAL4dxQPCLzaEkiDeZI-ahXSLXTT4SvW6Vh5Cqd57bAHugsswj4uDzm842Tg==/))  
   44+ hours of practical Machine Learning, Deep Learning, and Data Science  
   *(Instructors: Andrei Neagoie, Daniel Bourke)*
 
