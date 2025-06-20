@@ -49,7 +49,7 @@
 
 - 🧠 Participated in hackathons like **Hack AI** by Dell & NVIDIA, and **ARGONYX** @ RV University  
 - 🗣️ Hosted social impact events with **Louis Trust for the Visually Challenged**  
-- 🧑‍💼 Active IIC member & business event organizer  
+- 🧑‍💼 Active IIC member  
 - 💬 Fluent in English, Kannada | Love writing poetry in Kannada  
 - ✨ Currently exploring: YOLOv5, Custom LLM apps, Streamlit + ML integrations
 
