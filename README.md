@@ -8,25 +8,25 @@
 
 ### 🌟 Featured Projects
 
-- 🔬 [Anemia Risk Classifier](https://github.com/Greeshma-10/anemia_risk_classifier)  
+- [Anemia Risk Classifier](https://github.com/Greeshma-10/anemia_risk_classifier)  
   → Predicts anemia risk in Indian women using NFHS health survey data (85%+ accuracy with scikit-learn)
 
-- 🧾 [Prescription Recognition](https://github.com/Greeshma-10/prescription_recognition)  
+- [Prescription Recognition](https://github.com/Greeshma-10/prescription_recognition)  
   → Flask-based OCR app that extracts text from handwritten medical prescriptions using Tesseract & OpenCV
 
-- 🐾 [PAWTOPIA_AI](https://github.com/Greeshma-10/customer-support-ai)  
+- [PAWTOPIA_AI](https://github.com/Greeshma-10/customer-support-ai)  
   → AI-powered customer support site using React, Node.js & Gemini API for smart interactions
 
-- 💸 [Personal Finance Manager](https://github.com/Greeshma-10/personal_finance_manager)  
+- [Personal Finance Manager](https://github.com/Greeshma-10/personal_finance_manager)  
   → MERN stack app to track expenses with JWT auth, charts, filters & real-time analytics
 
 
 ## 📦 Other Projects I’ve Contributed To
 
-- 📱 [Hostel Management App](https://github.com/Greeshma-10/hostel_management_application) (Flutter + Firebase)  
-- 📝 [Registration Form](https://github.com/Greeshma-10/RegistrationForm)  
-- 🍱 [GoEasy Pantry Tracker](https://github.com/Greeshma-10/pantry_tracker)  
-- 📚 [AI Flashcards Generator](https://github.com/Greeshma-10/AI-flashcards)
+- [Hostel Management App](https://github.com/Greeshma-10/hostel_management_application) (Flutter + Firebase)  
+- [Registration Form](https://github.com/Greeshma-10/RegistrationForm)  
+- [GoEasy Pantry Tracker](https://github.com/Greeshma-10/pantry_tracker)  
+- [AI Flashcards Generator](https://github.com/Greeshma-10/AI-flashcards)
 
 
 ## 🧠 Tech Stack
@@ -40,18 +40,18 @@
 
 ## 🏅 Certifications
 
-- 🎓 [Complete A.I. & Machine Learning, Data Science Bootcamp (June 2025)]([https://www.udemy.com](https://www.udemy.com/share/102vBw3@p_5CK-pAL4dxQPCLzaEkiDeZI-ahXSLXTT4SvW6Vh5Cqd57bAHugsswj4uDzm842Tg==/))  
+- [Complete A.I. & Machine Learning, Data Science Bootcamp (June 2025)]([https://www.udemy.com](https://www.udemy.com/share/102vBw3@p_5CK-pAL4dxQPCLzaEkiDeZI-ahXSLXTT4SvW6Vh5Cqd57bAHugsswj4uDzm842Tg==/))  
   44+ hours of practical Machine Learning, Deep Learning, and Data Science  
   *(Instructors: Andrei Neagoie, Daniel Bourke)*
 
 
 ## 🌱 What Else?
 
-- 🧠 Participated in hackathons like **Hack AI** by Dell & NVIDIA, and **ARGONYX** @ RV University  
-- 🗣️ Hosted social impact events with **Louis Trust for the Visually Challenged**  
-- 🧑‍💼 Active IIC member  
-- 💬 Fluent in English, Kannada | Love writing poetry in Kannada  
-- ✨ Currently exploring: YOLOv5, Custom LLM apps, Streamlit + ML integrations
+- Participated in hackathons like **Hack AI** by Dell & NVIDIA, and **ARGONYX** @ RV University  
+- Hosted social impact events with **Louis Trust for the Visually Challenged**  
+- Active IIC member  
+- Fluent in English, Kannada | Love writing poetry in Kannada  
+- Currently exploring: YOLOv5, Custom LLM apps, Streamlit + ML integrations
 
 
 📫 Let’s connect!  
