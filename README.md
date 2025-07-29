@@ -1,64 +1,21 @@
-# 👋 Hi there, I'm Greeshma V!
-
-🎓 Final-year Computer Science student at Sir M. Visvesvaraya Institute of Technology, Bengaluru  
-💡 Passionate about Machine Learning, Web Development, and turning ideas into impactful projects  
+# 💫 About Me:
+Hi there, I'm Greeshma V!<br>🎓 Final-year Computer Science student at Sir M. Visvesvaraya Institute of Technology, Bengaluru<br>💡 Passionate about Machine Learning, Web Development, and turning ideas into impactful projects<br><br>🔭 I’m currently working on:<br>PolicyPulse – a multilingual chatbot that recommends government schemes using Gemini and Google translate API. <br><br>🤝 I’m looking to collaborate on:<br>Real-world ML projects in healthcare, agriculture, or governance with social impact.<br><br>
 
 
-## 🔨 What I'm Building & Exploring
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/greeshma-v-0b25282b6/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:greeshmavamannaik@gmail.com) 
 
-### 🌟 Featured Projects
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat-square&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat-square&logo=nodemon&logoColor=%BBDEAD) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat-square&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat-square&logo=streamlit&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat-square&logo=jenkins&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat-square&logo=Apache%20Maven&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat-square&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Greeshma-10&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Greeshma-10&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Greeshma-10&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- [Anemia Risk Classifier](https://github.com/Greeshma-10/anemia_risk_classifier)  
-  → Predicts anemia risk in Indian women using NFHS health survey data (85%+ accuracy with scikit-learn)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Greeshma-10&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-- [Prescription Recognition](https://github.com/Greeshma-10/prescription_recognition)  
-  → Flask-based OCR app that extracts text from handwritten medical prescriptions using Tesseract & OpenCV
+---
+[![](https://visitcount.itsvg.in/api?id=Greeshma-10&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- [PAWTOPIA_AI](https://github.com/Greeshma-10/customer-support-ai)  
-  → AI-powered customer support site using React, Node.js & Gemini API for smart interactions
-
-- [Personal Finance Manager](https://github.com/Greeshma-10/personal_finance_manager)  
-  → MERN stack app to track expenses with JWT auth, charts, filters & real-time analytics
-
-
-## 📦 Other Projects I’ve Contributed To
-
-- [Hostel Management App](https://github.com/Greeshma-10/hostel_management_application) (Flutter + Firebase)  
-- [Registration Form](https://github.com/Greeshma-10/RegistrationForm)  
-- [GoEasy Pantry Tracker](https://github.com/Greeshma-10/pantry_tracker)  
-- [AI Flashcards Generator](https://github.com/Greeshma-10/AI-flashcards)
-
-
-## 🧠 Tech Stack
-
-**Languages:** Python, JavaScript, Dart, C/C++  
-**Web Dev:** React, Next.js, Node.js, Express, Firebase  
-**ML/DS:** Pandas, NumPy, Scikit-learn, Matplotlib  
-**App Dev:** Flutter, Firebase  
-**Tools:** Git, GitHub, MongoDB, Vercel, Google Gemini API, Clerk
-
-
-## 🏅 Certifications
-
-- [Complete A.I. & Machine Learning, Data Science Bootcamp (June 2025)]([https://www.udemy.com](https://www.udemy.com/share/102vBw3@p_5CK-pAL4dxQPCLzaEkiDeZI-ahXSLXTT4SvW6Vh5Cqd57bAHugsswj4uDzm842Tg==/))  
-  44+ hours of practical Machine Learning, Deep Learning, and Data Science  
-  *(Instructors: Andrei Neagoie, Daniel Bourke)*
-
-
-## 🌱 What Else?
-
-- Participated in hackathons like **Hack AI** by Dell & NVIDIA, and **ARGONYX** @ RV University  
-- Hosted social impact events with **Louis Trust for the Visually Challenged**  
-- Active IIC member  
-- Fluent in English, Kannada | Love writing poetry in Kannada  
-- Currently exploring: YOLOv5, Custom LLM apps, Streamlit + ML integrations
-
-
-📫 Let’s connect!  
-[LinkedIn](https://www.linkedin.com/in/greeshma-v-0b25282b6/) | [Email](mailto:greeshmavamannaik@gmail.com)
-
-
-<!---
-Greeshma-10/Greeshma-10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
