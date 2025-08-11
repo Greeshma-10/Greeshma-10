@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there, I'm Greeshma V!<br>🎓 Final-year Computer Science student at Sir M. Visvesvaraya Institute of Technology, Bengaluru<br>💡 Passionate about Machine Learning, Web Development, and turning ideas into impactful projects<br><br>🔭 I’m currently working on:<br>PolicyPulse – a multilingual chatbot that recommends government schemes using Gemini and Google translate API. <br><br>🤝 I’m looking to collaborate on:<br>Real-world ML projects in healthcare, agriculture, or governance with social impact.<br><br>
+Hi there, I'm Greeshma V!<br>🎓 Final-year Computer Science student at Sir M. Visvesvaraya Institute of Technology, Bengaluru<br>💡 Passionate about Machine Learning, Web Development, and turning ideas into impactful projects<br><br>
 
 
 ## 🌐 Socials:
